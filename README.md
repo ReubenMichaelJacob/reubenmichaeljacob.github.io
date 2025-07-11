@@ -1,6 +1,6 @@
-# Reuben Jacob's Portfolio
+# My Portfolio
 
-This is my personal portfolio website, built to showcase my projects, skills, and resume.
+This is my personal portfolio website, built to showcase my projects, and skills, along with my resume.
 
 ## Technologies Used
 JavaScript, HTML/CSS, Git, and GitHub Pages
