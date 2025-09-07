@@ -3219,3 +3219,16 @@ input, select, textarea {
 			}
 
 	}
+
+	/* custom */
+	.work-item h3 a i {
+		font-size: 0.6em;        /* slightly smaller than text */
+		margin-left: 4px;        /* space from text */
+		vertical-align: bottom;  /* aligns nicely with text */
+		color: #007acc;          /* subtle accent color */
+		transition: transform 0.2s;
+	}
+
+	.work-item h3 a:hover i {
+		transform: translateX(8px); /* small hover movement */
+	}
